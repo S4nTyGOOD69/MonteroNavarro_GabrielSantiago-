@@ -12,5 +12,6 @@ for i in range(1, numero + 1):
     print(i)
 print(f"hay {numeros_pares} numeros pares, {numeros_impares} numeros impares desde 1 hasta {numero}.")
 
+
   
 
