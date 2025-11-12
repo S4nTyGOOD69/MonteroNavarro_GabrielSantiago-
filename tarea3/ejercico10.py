@@ -29,4 +29,4 @@ while opcion != 5:
         print("saliendo de la calculadora")
     else: 
         print("opcion no valida, intente de nuevo")
-                    
+                     
