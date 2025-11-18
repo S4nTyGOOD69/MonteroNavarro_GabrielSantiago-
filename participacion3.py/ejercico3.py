@@ -1,4 +1,5 @@
-#Haz un programa que pida "Nombre" y "Calificación". Almacena todos estos datos en un diccionario. Posteriormente muestra: Promedio general, cantidad de aprobados y cantidad de reprobados.
+#Ejercicio3
+
 nombre = input("Ingrese el nombre del estudiante: ")
 calificacion = float(input("Ingrese la calificación del estudiante (0-10): "))      
 datos_estudiantes = {}

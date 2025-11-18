@@ -1,4 +1,5 @@
-#ejercicio2
+#Ejercicio2
+
 numeros_pares = []
 numeros_impares = []
 while True:

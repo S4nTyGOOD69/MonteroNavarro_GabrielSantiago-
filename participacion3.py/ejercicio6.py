@@ -1,5 +1,5 @@
-# Haz un programa que pida "Nombre" y "Calificaciones". Posteriormente calcula el promedio general, calificación mayor, calificación menor y muestra el nombre del mejor alumno. Agrega 5 nombres y calificaciones.-++++++
 #ejercio6
+
 nombres = []
 calificaciones = [] 
 for _ in range(5):

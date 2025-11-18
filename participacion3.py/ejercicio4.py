@@ -1,4 +1,5 @@
-#Pide una frase y cuenta cuántas vocales usa (a, e, i, o, u).
+#Ejercicio4
+
 frase = input("Ingrese una frase: ")
 vocales = "aeiouAEIOU"
 contador_vocales = sum(1 for char in frase if char in vocales)

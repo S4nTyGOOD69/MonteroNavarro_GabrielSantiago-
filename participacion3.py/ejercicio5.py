@@ -1,4 +1,5 @@
 #Ejercio5
+
 numero = int(input("Ingrese un número: "))
 lista = []
 for _ in range(numero):
