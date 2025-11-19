@@ -1,4 +1,4 @@
-#Haz un programa que pida un texto y una palabra. Si la palabra está en el texto, muestra cuántas veces aparece.
+#ejercicio4
 texto = input("Introduce un texto: ")
 palabra = input("Introduce una palabra: ")
 contador = texto.count(palabra)
@@ -7,4 +7,3 @@ if contador > 0:
 else:
     print(f"La palabra '{palabra}' no está en el texto.")
 
-    

@@ -1,5 +1,5 @@
-#Haz un programa en Python que pida repetidamente el nombre de una persona y su respuesta ("Si" o "No"). Guarda cada respuesta en un diccionario, donde la clave sea el nombre y el valor la respuesta. El programa debe terminar cuando el usuario escriba "Fin" como nombre. Al finalizar, muestra cuántas personas respondieron "Si", y cuántas respondieron "No"
 #ejercicio7
+
 respuestas = {}
 while True:
     nombre = input("Introduce el nombre de la persona (o 'Fin' para terminar): ")

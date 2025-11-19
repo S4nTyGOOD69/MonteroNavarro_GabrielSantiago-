@@ -1,5 +1,5 @@
-#Crea un diccionario con clave y valor producto : precio. Luego, pide una lista de productos comprados y muestra el total de la compra. Si el producto no existe, muestra una advertencia.
 #ejercicio6
+
 productos_precios = []
 num_productos = int(input("¿Cuántos productos quieres agregar al diccionario? "))
 for _ in range(num_productos):

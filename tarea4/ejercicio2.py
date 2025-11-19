@@ -1,4 +1,5 @@
-#Haz un programa que pida una frase y cuenta cuántas veces aparece cada palabra. Por ejemplo "Esta es una prueba", "Esta" aparece una vez, "es", una vez, "una", una vez, etc.
+#ejercicio2
+
 frase = input("Introduce una frase: ")
 palabras = frase.split()
 contador_palabras = {}

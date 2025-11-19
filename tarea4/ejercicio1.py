@@ -1,4 +1,4 @@
-#Pide una frase, divídela en palabras y guarda una lista solo las que tengan más de 5 letras. Muestra la lista resultante.
+#ejercicio1
 
 frase = input("Introduce una frase: ")
 palabras = frase.split()
